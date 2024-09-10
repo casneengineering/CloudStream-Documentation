@@ -1,4 +1,4 @@
 # CloudStream Documentation
 Publicly Available Documentation for Casne CloudStream
 
-**Current Release: v1.4**
+**Current Release: v2.0** (Released 9/1/2024)
